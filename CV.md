@@ -22,6 +22,10 @@ Male, German
 <div id="webaddress">
 <a href="http://jaschwer.github.io/assignment2/">Assignment2.html</a>
 </div>
+You can find the .md file here:
+<div id="webaddress">
+<a href="https://github.com/jaschwer/assignment2/blob/gh-pages/assignment2_1.md">Assignment2.md</a>
+</div>
 You can find the file in the following repository:
 <div id="webaddress">
 <a href="https://github.com/jaschwer/assignment2/tree/gh-pages">Repository-Assignment2</a>
@@ -30,6 +34,9 @@ You can find the file in the following repository:
 Same for the presentation:
 <div id="webaddress">
 <a href="http://jaschwer.github.io/presentation/">Presentation</a>
+</div>
+<div id="webaddress">
+<a href="https://github.com/jaschwer/presentation/blob/gh-pages/presentation.md">presentation.md </a>
 </div>
 <div id="webaddress">
 <a href="https://github.com/jaschwer/presentation/tree/gh-pages">Repository-presentation </a>
