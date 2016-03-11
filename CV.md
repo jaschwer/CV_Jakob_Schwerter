@@ -86,7 +86,7 @@ date: February 2016
 
 
 [//]: # (pandoc cv.md -s -o cv_jakobschwerter.pdf)
-[//]: # (pandoc cv.md -s -o cv_jakobschwerter.html)
+[//]: # (pandoc cv.md -s -o index.html)
 
 
 
