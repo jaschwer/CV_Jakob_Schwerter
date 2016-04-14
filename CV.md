@@ -11,12 +11,13 @@ Tel.: +31 6 82 07 59 78 <br >
 Date and place of birth: 2nd of Oktober 1990, Iserlohn, Germany <br >
 
 Male, German
-<div id="webaddress">
-<a href="schwerter.jakob@gmail.com">schwerter.jakob@gmail.com</a>
-</div>
-<div id="webaddress">
-<a href="https://github.com/jaschwer">https://github.com/jaschwer</a>
-</div>
+
+Github:
+
+[E-Mail](schwerter.jakob@gmail.com)
+[Github webpage](http://jaschwer.github.io/)
+
+
 
 | Assignment       | HTML           | MD / IPYNB  | Repository |
 | ------------- |:-------------:| --------------:| --------------:|
@@ -25,30 +26,6 @@ Male, German
 | Presentation     | [HTML](http://jaschwer.github.io/presentation/)     | [MD](https://github.com/jaschwer/presentation/blob/gh-pages/presentation.md)  | [Repository](https://github.com/jaschwer/presentation/tree/gh-pages)|
 | Assignment 3 | [HTML](http://jaschwer.github.io/Third_Assignment/)       |  [IPYNB](https://github.com/jaschwer/Third_Assignment/blob/master/Third_Assignment.ipynb)  | [Repository](https://github.com/jaschwer/Third_Assignment) |
 
-
-#### Numerical Simulation Assignment 2:
-<div id="webaddress">
-<a href="http://jaschwer.github.io/assignment2/">Assignment2.html</a>
-</div>
-You can find the .md file here:
-<div id="webaddress">
-<a href="https://github.com/jaschwer/assignment2/blob/gh-pages/assignment2_1.md">Assignment2.md</a>
-</div>
-You can find the file in the following repository:
-<div id="webaddress">
-<a href="https://github.com/jaschwer/assignment2/tree/gh-pages">Repository-Assignment2</a>
-</div>
-
-Same for the presentation:
-<div id="webaddress">
-<a href="http://jaschwer.github.io/presentation/">Presentation</a>
-</div>
-<div id="webaddress">
-<a href="https://github.com/jaschwer/presentation/blob/gh-pages/presentation.md">presentation.md </a>
-</div>
-<div id="webaddress">
-<a href="https://github.com/jaschwer/presentation/tree/gh-pages">Repository-presentation </a>
-</div>
 
 ____________________________________________________
 #### Currently
